@@ -40,4 +40,4 @@ Visit the local URL shown in your terminal (e.g., `http://localhost:5173`) to vi
 
 ---
 
-**Made by Anshu**
+**Made by Anshu Shee**
