@@ -1,6 +1,10 @@
 # Macbook Landing Page
 
+![Hero Banner](./public/readme/hero_banner.png)
+
 An immersive Apple-style 3D product showcase built with modern web technologies. This project features scroll-driven animations and a cinematic interactive 3D product view.
+
+![Closer Look](./public/readme/closer_look.png)
 
 ## ✨ Features
 
